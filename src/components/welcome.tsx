@@ -1,5 +1,5 @@
 import labImg from "../img/Geotechnical-Engineering-Lab-mmantc-civil-engineering.jpg"; // lab instruments image
-import plantImg from "../img/cement-industry.jpg"; // construction plant image
+import plantImg from "../img/GT-1200-Topcon_480x480.webp"; // construction plant image
 import { motion } from "framer-motion";
 
 const Welcome = () => {

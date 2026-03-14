@@ -28,6 +28,7 @@ firebaserc
 
 # Dependencies
 /node_modules
+/src/firebase.ts
 
 # Cache
 .cache/
